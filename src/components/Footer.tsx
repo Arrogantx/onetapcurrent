@@ -58,21 +58,21 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-center">
                 <Mail size={20} className="text-primary-500 mr-2" />
-                <a href="mailto:info@onetapmedia.com" className="text-gray-400 hover:text-white transition-colors">
-                  info@onetapmedia.com
+                <a href="mailto:contact@onetapxmedia.com" className="text-gray-400 hover:text-white transition-colors">
+                  contact@onetapxmedia.com
                 </a>
               </li>
               <li className="flex items-center">
                 <Phone size={20} className="text-primary-500 mr-2" />
                 <a href="tel:+1234567890" className="text-gray-400 hover:text-white transition-colors">
-                  (123) 456-7890
+                  (267) 990-2474
                 </a>
               </li>
               <li className="flex items-center">
                 <MapPin size={20} className="text-primary-500 mr-2" />
                 <span className="text-gray-400">
                   123 Digital Street<br />
-                  Marketing City, MC 12345
+                  Marketing City, PA 12345
                 </span>
               </li>
             </ul>
